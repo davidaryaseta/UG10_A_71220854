@@ -1,0 +1,11 @@
+a= input('Masukan nama mahasiswa:')
+b= input('Masukan NIM-nya:')
+
+if b [2:4] == '22':
+    print(a,'merupakan mahasiswa informatika angkatan 20 hingga 22')
+elif b [2:4] == '21':
+    print (a,'merupakan mahasiswa informatka angkatan 20 hingga 22')
+elif b [2:4] == '20':
+    print (a,'merupakan mahasiswa informatika angkatan 20 hingga 22')
+else:
+    print(a,'bukan merupakan mahasiswa angkatan 20 hingga 22')
